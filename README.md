@@ -11,7 +11,6 @@ Sistema desktop desenvolvido em Java para gerenciamento de eventos, aplicando co
 
 - **Curso:** Gestão de TI
 - **Disciplinas:** Linguagem de Programação I e Engenharia de Software
-- **Aluno:** Igor
 - **Data:** Novembro/2025
 
 ---
