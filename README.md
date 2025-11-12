@@ -1,4 +1,4 @@
-# 🎉 Sistema de Gestão de Eventos
+# Sistema de Gestão de Eventos
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
